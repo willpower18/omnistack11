@@ -5,7 +5,7 @@
 <ul>
 <li>Backend - API em NodeJS</li>
 <li>FrontEnd - ReactJS</li>
-<li>Mobile - React Nativ</li>
+<li>Mobile - React Native</li>
 </ul>
 <br/>
 <p>- Linguagem de Programação Utilizada: <b>Javascript</b></p>
